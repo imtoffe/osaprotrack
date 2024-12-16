@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203068495554",
+    "project_id": "osaprotrack1-7b1d1",
+    "storage_bucket": "osaprotrack1-7b1d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203068495554:android:ebae11ea6a874d5bbe0d5b",
+        "android_client_info": {
+          "package_name": "com.example.osaprotrack1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXbJGU-zOVNneS64Sh55BkwVlY8vc4IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
